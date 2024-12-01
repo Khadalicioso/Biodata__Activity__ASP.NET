@@ -19,7 +19,7 @@ A simple and intuitive web application for managing biographical data, developed
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Biodata__Activity__ASP.NET.git
+git clone https://github.com/Khadalicioso/biodata.git
 ```
 
 2. Open the solution file `biodata_activity-asp.sln` in Visual Studio
